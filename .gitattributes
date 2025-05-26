@@ -1,0 +1,2 @@
+notebooks/models/bert-finetuned/checkpoint-3126/model.safetensors filter=lfs diff=lfs merge=lfs -text
+notebooks/models/bert-finetuned/checkpoint-3126/optimizer.pt filter=lfs diff=lfs merge=lfs -text
